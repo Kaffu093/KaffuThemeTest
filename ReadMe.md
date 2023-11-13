@@ -1,6 +1,8 @@
 # Cappuccino's Theme! ☕
 
-This project is a simple calculator to test the [Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme) for Visual Studio Code.
+This project is a simple calculator to test the
+[Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme)
+for Visual Studio Code.
 
 ## Tools 🛠️
 
