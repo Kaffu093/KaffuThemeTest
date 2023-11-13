@@ -1,4 +1,6 @@
 {
 	"files.eol": "\r\n",
-	"editor.insertSpaces": false
+	"editor.insertSpaces": false,
+	"cSpell.words": ["csharpier", "dotnet", "ecma", "linebreak", "Parens"],
+	"eslint.validate": ["json"]
 }

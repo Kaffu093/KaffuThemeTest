@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"ms-dotnettools.csdevkit",
+		"streetsidesoftware.code-spell-checker",
+		"csharpier.csharpier-vscode",
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"EditorConfig.EditorConfig",
+		"DavidAnson.vscode-markdownlint",
+	]
+}
