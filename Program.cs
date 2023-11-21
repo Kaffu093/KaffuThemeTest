@@ -4,6 +4,8 @@ class Program
 {
 	static void Main()
 	{
+		throw new NotImplementedException();
+
 		// Greet the user
 		Console.WriteLine($"Hello {Environment.UserName}! Welcome to the calculator.");
 
