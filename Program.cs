@@ -1,8 +1,8 @@
 ﻿namespace CappuccinoThemeTest;
 
-class Program
+public static class Program
 {
-	static void Main()
+	private static void Main()
 	{
 		// Greet the user
 		Console.WriteLine($"Hello {Environment.UserName}! Welcome to the calculator.");
