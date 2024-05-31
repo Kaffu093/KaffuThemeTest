@@ -1,7 +1,7 @@
-# Cappuccino's Theme! ☕
+# Kaffu's Theme! ☕
 
 This project is a simple calculator to test the
-[Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme)
+[Kaffu's Theme](https://github.com/Kaffu093/KaffuTheme)
 for Visual Studio Code.
 
 ## Tools 🛠️
@@ -49,12 +49,12 @@ for Visual Studio Code.
 ### Through cloning the repository 📦
 
 -   Clone the repository.
--   Change to the `CappuccinoThemeTest` directory.
+-   Change to the `KaffuThemeTest` directory.
 -   Execute the `dotnet run` command.
 
 ### Through the EXE file 📦
 
--   Download the [EXE file](https://github.com/Cappuccino093/CappuccinoThemeTest/releases) from the releases section.
+-   Download the [EXE file](https://github.com/Kaffu093/KaffuThemeTest/releases) from the releases section.
 -   Execute the `.exe` file.
 
 ## Contributing 🤝
@@ -64,7 +64,7 @@ pull request.
 
 If you want to open an issue, you can follow the next steps:
 
--   Go to the [issues](https://github.com/Cappuccino093/CappuccinoThemeTest/issues) section.
+-   Go to the [issues](https://github.com/Kaffu093/KaffuThemeTest/issues) section.
 -   Click on the `New issue` button.
 -   Fill the form with the information of the issue.
 -   Click on the `Submit new issue` button.

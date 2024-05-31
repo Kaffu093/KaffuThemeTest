@@ -1,4 +1,4 @@
-﻿namespace CappuccinoThemeTest;
+﻿namespace KaffuThemeTest;
 
 public static class Program
 {
